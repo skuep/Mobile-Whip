@@ -625,7 +625,7 @@
     (property "Sheetfile" "mobile-whip.kicad_sch")
     (property "Sheetname" "")
     (path "/da492421-a211-4983-b0d9-f67dcbbbad16")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files)
     (fp_text reference "H4" (at -0.508 -2.54 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3a9ed0b0-4521-4ec7-a66e-db1d7eb74b04)
@@ -3397,7 +3397,7 @@
     (property "Sheetfile" "mobile-whip.kicad_sch")
     (property "Sheetname" "")
     (path "/6884c1b4-ba74-400a-b15a-2bf546c04e73")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files)
     (fp_text reference "H3" (at -0.508 -2.54 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c4150359-ec98-43f0-8996-6a354f1e05ab)
@@ -3426,7 +3426,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e0692317-3143-4681-97c6-8fbe46592f31)
     )
-    (fp_text value "Conn_Coaxial" (at 5 -6) (layer "B.Fab") hide
+    (fp_text value "SMA Edge Mount Male" (at 5 -6) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 637c5908-9371-4d80-a19b-036e111ef5cd)
     )

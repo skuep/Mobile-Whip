@@ -2662,7 +2662,7 @@
     (in_bom yes) (on_board yes)
     (uuid 5ec3bd07-85f5-47e9-a70f-b13f8032dfa2)
     (property "Reference" "J1" (id 0) (at 216.535 110.49 0))
-    (property "Value" "Conn_Coaxial" (id 1) (at 221.615 113.03 0))
+    (property "Value" "SMA Edge Mount Male" (id 1) (at 226.06 113.03 0))
     (property "Footprint" "project:SMA_Male_EdgeMount" (id 2) (at 212.725 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3654,7 +3654,7 @@
       (reference "H4") (unit 1) (value "MountingHole") (footprint "project:TOOLING-HOLE")
     )
     (path "/5ec3bd07-85f5-47e9-a70f-b13f8032dfa2"
-      (reference "J1") (unit 1) (value "Conn_Coaxial") (footprint "project:SMA_Male_EdgeMount")
+      (reference "J1") (unit 1) (value "SMA Edge Mount Male") (footprint "project:SMA_Male_EdgeMount")
     )
     (path "/0b361c8c-c7f3-45c6-b828-350b331fec0c"
       (reference "J2") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "project:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal")
