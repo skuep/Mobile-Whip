@@ -1801,7 +1801,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f9b0a870-18af-465b-9142-437ff07a5458)
     )
-    (fp_text value "10nF" (at 0 1.68) (layer "F.Fab") hide
+    (fp_text value "100nF" (at 0 1.68) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 361cae69-0e81-4bdb-9800-6fe77dfb425b)
     )
