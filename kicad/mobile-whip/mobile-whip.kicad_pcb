@@ -548,7 +548,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f57372a5-ca8b-4251-bf71-a41d51e6c8b5)
     )
-    (fp_text value "1K" (at 0 1.65) (layer "F.Fab") hide
+    (fp_text value "2K" (at 0 1.65) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 227aca6e-fb60-45a9-9f7e-9294045a5e30)
     )
@@ -2331,7 +2331,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bb3cc2e9-0754-4134-a574-40949073c010)
     )
-    (fp_text value "510R" (at 0 1.65) (layer "F.Fab") hide
+    (fp_text value "1K" (at 0 1.65) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 96932363-f391-46de-9938-912a8739d318)
     )
@@ -2415,7 +2415,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8fecaef3-3ec3-48db-b92b-42aba82b3c34)
     )
-    (fp_text value "510R" (at 0 1.65) (layer "F.Fab") hide
+    (fp_text value "470R" (at 0 1.65) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a07f1e79-1d7d-4a07-b840-3da61e06e5e0)
     )
@@ -2771,7 +2771,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f33fa15f-1918-4aae-b4e6-a8ab43243199)
     )
-    (fp_text value "1K" (at 0 1.65) (layer "F.Fab") hide
+    (fp_text value "2K" (at 0 1.65) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 660d5cb3-f2a8-445a-9d57-89f0e1b9f0e3)
     )
@@ -2862,7 +2862,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7614d1b3-3ead-4914-90b1-e5e05187dd06)
     )
-    (fp_text value "510R" (at 0 1.65) (layer "F.Fab") hide
+    (fp_text value "220R" (at 0 1.65) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f2d404b6-1993-4de0-b78d-3ca9612287c7)
     )
@@ -3211,7 +3211,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c355ca51-32bc-4d88-a250-07d5621dd709)
     )
-    (fp_text value "1K" (at 0 1.65 90) (layer "F.Fab") hide
+    (fp_text value "2K" (at 0 1.65 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 119a2ba9-03f2-48af-8f1a-4a96cb25a3bf)
     )
