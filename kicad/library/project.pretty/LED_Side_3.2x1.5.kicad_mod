@@ -1,6 +1,6 @@
 (footprint "LED_Side_3.2x1.5" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6919BD37)
+  (tedit 6921FE84)
   (attr smd)
   (fp_text reference "REF**" (at 0 1.7) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -33,8 +33,8 @@
   (fp_line (start -0.75 -0.35) (end -1.25 0.15) (layer "F.Fab") (width 0.1) (tstamp bae19b35-2d16-4ef2-b8d3-76f1434d5f22))
   (fp_line (start 1.5 0.15) (end 1.5 -0.35) (layer "F.Fab") (width 0.1) (tstamp d398ef18-102c-4728-828a-b79a870da871))
   (fp_arc (start -1 -0.35) (mid 0 -1.35) (end 1 -0.35) (layer "F.Fab") (width 0.1) (tstamp a64c28c0-6f6f-4bdc-92ef-a330b4099ccd))
-  (pad "1" smd rect (at 1.5 0) (size 1 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1b15f292-1fbe-4bf6-ad24-a3cdd2ed6ca2))
-  (pad "2" smd rect (at -1.5 0) (size 1 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 34d3cc02-c3cc-4e17-a024-ec2d737651d3))
+  (pad "1" smd rect (at -1.5 0) (size 1 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 34d3cc02-c3cc-4e17-a024-ec2d737651d3))
+  (pad "2" smd rect (at 1.5 0) (size 1 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1b15f292-1fbe-4bf6-ad24-a3cdd2ed6ca2))
   (pad "3" smd rect (at 0 0.15) (size 1 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dedcfd62-2ac6-4196-b371-2e98381dc858))
   (model "${KIPRJMOD}/../library/project.3dshapes/SIDE-LED 1204.stp"
     (offset (xyz 0 0.35 0.025))
