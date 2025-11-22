@@ -1,0 +1,79 @@
+* PSpice Model Editor - Version 16.3.0
+
+*$
+*	|==========================================================
+*	|
+*	|
+*	|
+*	|			 TLV431A
+*	|
+*	|			ON Semiconductor
+*	|
+*	|		 Low Voltage Precision Adjustable Shunt Regulator
+*	|
+*	|
+*	|
+*	|
+*	|	This model was developed by
+*	|
+*	|	AEI (Analytic Engineering)
+*	|
+*	|	182 Morris Avenue
+*	|
+*	|	Holtsville, NY 11742
+*	|
+*	|	Copyright 2001 AEI
+*	|
+*	|	All Rights Reserved
+*	|
+*	|
+*	|
+*	|	The content of this model is subject to change
+*	|
+*	|	without notice and may not be modified or altered
+*	|
+*	|	without permission from On Semiconductor. This model
+*	|
+*	|	has been carefully checked and is believed to be
+*	|
+*	|	accurate, however neither AEI nor On Semiconductor
+*	|
+*	|	assume liability for the use of this model or the
+*	|
+*	|	results obtained from using it.
+*	|
+*	|
+*	|
+*	|	For more information regarding modeling services,
+*	|
+*	|	model libraries or simulation productors, please
+*	|
+*	|	call AEI at (631) 654-0253 ext 116 or 106.
+*	|
+*	|	email: Sales@aeng.com.
+*	|
+*	|
+*	|
+*	|==========================================================
+*SPICE_NET
+.SUBCKT TLV431 K A R
+*             K A FDBK
+.MODEL DCLAMP D (IS=13.5N RS=25M N=1.59 
++ CJO=45P VJ=.75 M=.302 TT=50.4N BV=36V IBV=1MA)
+.MODEL DCL2 D RS=660K
+V1 1 A 1.24
+R1 A 2 15.6
+C1 2 A .5U
+R2 2 3 100
+C2 3 4 1.3U
+R3 4 A 8
+G2 A 8 3 A  .86
+D1 5 8 DCLAMP
+D2 K 8 DCLAMP
+D4 A 8 DCLAMP
+V4 5 A 2
+G1 A 2 1 R 0.11
+VCLAMP 9 A 14.5
+D3  K 9 DCL2
+.ENDS
+*$
