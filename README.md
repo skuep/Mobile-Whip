@@ -9,9 +9,9 @@ The famous Mini-Whip (by PA6RDT) with various improvements:
 - On-Board lithium charger via USB Type-C
   
 
-![Mobile Whip on a UV-K5 with FM-mod](images/mobile-whip.jpg?raw=true "Mobile Whip on a UV-K5 with FM-mod")            |  ![Mobile Whip on a RTL-SDR with Bias-Tee](images/mobile-whip-rtlsdr.jpg?raw=true "Mobile Whip on a RTL-SDR with Bias-Tee")
+![Mobile Whip on a UV-K5 with HF-mod](images/mobile-whip.jpg?raw=true "Mobile Whip on a UV-K5 with HF-mod")            |  ![Mobile Whip on a RTL-SDR with Bias-Tee](images/mobile-whip-rtlsdr.jpg?raw=true "Mobile Whip on a RTL-SDR with Bias-Tee")
 :-------------------------:|:-------------------------:
-Mobile Whip on a UV-K5 with FM-mod | Mobile Whip on a RTL-SDR with Bias-Tee
+Mobile Whip on a UV-K5 with HF-mod | Mobile Whip on a RTL-SDR with Bias-Tee
 
 ![S9+ on UV-K5](images/mobile-whip-s9p.jpg?raw=true "S9+ on UV-K5")            |  ![Integrated USB-Charger](images/mobile-whip-charging.jpg?raw=true "Integrated USB-Charger")
 :-------------------------:|:-------------------------:
