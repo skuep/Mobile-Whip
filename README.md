@@ -3,7 +3,7 @@
 # Mobile-Whip
 The famous Mini-Whip (by PA6RDT) with various improvements:
 - Low-Voltage Power Supply (Single lithium cell or 4.0V RTL-SDR Bias-Tee)
-- Very compact design suitable for an HT (such as the UV-K5 with FM mod)
+- Very compact design suitable for an HT (such as the UV-K5 with HF mod)
 - Uses LTC6268 instead of JFET
 - Same performance, maybe lower distortions
 - On-Board lithium charger via USB Type-C
