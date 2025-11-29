@@ -3219,7 +3219,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid af38408d-7ade-4298-bd81-67285680b2ca)
     (property "Reference" "R11" (id 0) (at 197.485 21.59 90))
-    (property "Value" "470R" (id 1) (at 197.485 24.13 90))
+    (property "Value" "220R" (id 1) (at 197.485 24.13 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 197.485 29.718 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3864,7 +3864,7 @@
       (reference "R10") (unit 1) (value "220R") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/af38408d-7ade-4298-bd81-67285680b2ca"
-      (reference "R11") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R11") (unit 1) (value "220R") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/4d6d76aa-61d4-45af-81b5-c851915ddf93"
       (reference "R12") (unit 1) (value "2K") (footprint "Resistor_SMD:R_0805_2012Metric")

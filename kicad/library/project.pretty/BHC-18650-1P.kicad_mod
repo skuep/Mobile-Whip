@@ -1,6 +1,6 @@
 (footprint "BHC-18650-1P" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6910862E)
+  (tedit 692B2098)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -21,6 +21,9 @@
   (fp_rect (start -1 -23) (end 1 -15) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 32d80695-64ca-478e-a100-35fe370496ab))
   (fp_rect (start -4 -18) (end 3.875 -20) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 84f937c2-b0bb-4126-b97e-e819ca33117c))
   (fp_rect (start -3.9375 20) (end 3.9375 18) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 99f452c6-2c0a-42be-8862-c60e42f884a4))
+  (fp_circle (center 0 -26.85) (end 1.4 -26.85) (layer "F.Fab") (width 0.5) (fill none) (tstamp 37c25398-65cf-4ddd-a150-430f469ed645))
+  (fp_circle (center 0 26.85) (end 1.4 26.85) (layer "F.Fab") (width 0.5) (fill none) (tstamp 4cee4fb9-4782-4493-a8bd-28f24d54ac17))
+  (pad "" np_thru_hole circle (at 9.7 -34.25) (size 0 0) (drill 1.8) (layers F&B.Cu *.Mask) (tstamp 5d335cde-5d82-409a-94b4-460411cc13b4))
   (pad "1" thru_hole circle (at 0 -35.7) (size 4 4) (drill 1.8) (layers *.Cu *.Mask) (tstamp 8d712027-6975-42a2-b4cf-f190fd46ecbf))
   (pad "2" thru_hole circle (at 0 35.7) (size 4 4) (drill 1.8) (layers *.Cu *.Mask) (tstamp f7c6f412-3344-467e-a280-ea7adbec00d8))
   (model "${KIPRJMOD}/../library/project.3dshapes/Battery Holder 18650_COMF_BHC-18650-1P.stp"
