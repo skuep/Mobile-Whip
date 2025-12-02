@@ -1,7 +1,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F415AKJV)
 
 # Mobile-Whip
-The famous Mini-Whip (by PA6RDT) with various improvements:
+The famous Mini-Whip (by PA0RDT or DL4ZAO) with various improvements:
 - Low-Voltage Power Supply (Single lithium cell or 4.0V RTL-SDR Bias-Tee)
 - Very compact design suitable for an HT (such as the UV-K5 with HF mod)
 - Uses LTC6268 instead of JFET
