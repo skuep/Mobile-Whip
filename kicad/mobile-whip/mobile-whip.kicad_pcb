@@ -184,12 +184,12 @@
     (property "Sheetfile" "mobile-whip.kicad_sch")
     (property "Sheetname" "")
     (path "/6c408477-374e-46a4-b195-223418296e20")
-    (attr smd)
+    (attr smd exclude_from_pos_files)
     (fp_text reference "C3" (at 0 -1.68) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 40423ac6-951e-457a-9728-12a9ee11238f)
     )
-    (fp_text value "10pF" (at 0 1.68) (layer "F.Fab") hide
+    (fp_text value "N.M." (at 0 1.68) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1839b8de-0946-42e6-811b-9eb76b47c9e3)
     )
@@ -625,7 +625,7 @@
     (property "Sheetfile" "mobile-whip.kicad_sch")
     (property "Sheetname" "")
     (path "/da492421-a211-4983-b0d9-f67dcbbbad16")
-    (attr through_hole exclude_from_pos_files)
+    (attr through_hole)
     (fp_text reference "H4" (at -0.508 -2.54 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3a9ed0b0-4521-4ec7-a66e-db1d7eb74b04)
@@ -692,12 +692,12 @@
     (property "Sheetfile" "mobile-whip.kicad_sch")
     (property "Sheetname" "")
     (path "/2675271d-548a-409a-9942-989ed6de53e0")
-    (attr smd)
+    (attr smd exclude_from_pos_files)
     (fp_text reference "C4" (at 0 -1.68) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 91f0543b-0a0d-4dd4-b1ba-a6ca22d9d75f)
     )
-    (fp_text value "47pF" (at 0 1.68) (layer "F.Fab") hide
+    (fp_text value "N.M." (at 0 1.68) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4188b495-b1a2-44dd-9296-6f87f86f49c7)
     )
@@ -819,12 +819,12 @@
     (property "Sheetfile" "mobile-whip.kicad_sch")
     (property "Sheetname" "")
     (path "/850230a1-e985-4aec-bfc1-cca85f47f39d")
-    (attr smd exclude_from_pos_files exclude_from_bom)
+    (attr smd exclude_from_pos_files)
     (fp_text reference "D4" (at 0 -2 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a3c4bc3f-a98f-4273-8449-958474920e5f)
     )
-    (fp_text value "B5819W SL" (at 0 2.1 90) (layer "F.Fab") hide
+    (fp_text value "N.M." (at 0 2.1 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 67ff5054-1763-46fe-b9df-4c36460f6fdb)
     )
@@ -1036,7 +1036,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 53c7c6e0-927b-423f-ab5e-3f87616bb5e3)
     )
-    (fp_text value "MLF2012E100KTD25" (at 0 1.55) (layer "F.Fab") hide
+    (fp_text value "0R" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp da8b82c6-f385-475c-addc-5d8cba099627)
     )
@@ -1984,12 +1984,12 @@
     (property "Sheetfile" "mobile-whip.kicad_sch")
     (property "Sheetname" "")
     (path "/ff377cbc-6042-46e6-9644-84dbcdaf714a")
-    (attr smd exclude_from_pos_files exclude_from_bom)
+    (attr smd exclude_from_pos_files)
     (fp_text reference "D6" (at 0 -2 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 375096e3-d740-4a77-9113-fb3f863b9274)
     )
-    (fp_text value "B5819W SL" (at 0 2.1 90) (layer "F.Fab") hide
+    (fp_text value "N.M." (at 0 2.1 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0643fe83-065d-4125-8911-d62b8742bc57)
     )
@@ -2749,7 +2749,7 @@
     (property "Sheetfile" "mobile-whip.kicad_sch")
     (property "Sheetname" "")
     (path "/6884c1b4-ba74-400a-b15a-2bf546c04e73")
-    (attr through_hole exclude_from_pos_files)
+    (attr through_hole)
     (fp_text reference "H3" (at -0.508 -2.54 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c4150359-ec98-43f0-8996-6a354f1e05ab)

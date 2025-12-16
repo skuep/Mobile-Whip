@@ -2361,7 +2361,7 @@
     (property "Reference" "C4" (id 0) (at 130.81 116.2049 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47pF" (id 1) (at 130.81 118.7449 0)
+    (property "Value" "N.M." (id 1) (at 130.81 118.7449 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 127.9652 121.285 0)
@@ -2835,10 +2835,10 @@
   (symbol (lib_id "Device:C") (at 109.855 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6c408477-374e-46a4-b195-223418296e20)
-    (property "Reference" "C3" (id 0) (at 113.665 116.8399 0)
+    (property "Reference" "C3" (id 0) (at 113.03 116.8399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10pF" (id 1) (at 113.665 119.3799 0)
+    (property "Value" "N.M." (id 1) (at 113.03 119.3799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 110.8202 121.92 0)
@@ -3042,7 +3042,7 @@
     (property "Reference" "D4" (id 0) (at 144.78 105.0924 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "B5819W SL" (id 1) (at 144.78 107.6324 90)
+    (property "Value" "N.M." (id 1) (at 144.78 107.6324 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Diode_SMD:D_SOD-123" (id 2) (at 141.605 106.68 0)
@@ -3407,8 +3407,8 @@
   (symbol (lib_id "Device:L") (at 38.1 109.22 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d99aad4d-8a7c-4eff-88b0-6cf9cb544a94)
-    (property "Reference" "L1" (id 0) (at 31.115 111.125 90))
-    (property "Value" "MLF2012E100KTD25" (id 1) (at 39.37 113.665 90))
+    (property "Reference" "L1" (id 0) (at 36.195 111.125 90))
+    (property "Value" "0R" (id 1) (at 36.195 113.03 90))
     (property "Footprint" "Inductor_SMD:L_0805_2012Metric" (id 2) (at 38.1 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3638,7 +3638,7 @@
     (property "Reference" "D6" (id 0) (at 144.78 115.2524 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "B5819W SL" (id 1) (at 144.78 117.7924 90)
+    (property "Value" "N.M." (id 1) (at 144.78 117.7924 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Diode_SMD:D_SOD-123" (id 2) (at 141.605 116.84 0)
@@ -3756,10 +3756,10 @@
       (reference "C2") (unit 1) (value "10uF/25V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/6c408477-374e-46a4-b195-223418296e20"
-      (reference "C3") (unit 1) (value "10pF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C3") (unit 1) (value "N.M.") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/2675271d-548a-409a-9942-989ed6de53e0"
-      (reference "C4") (unit 1) (value "47pF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C4") (unit 1) (value "N.M.") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/3c5248a3-8f3f-476f-a470-b075e2a60306"
       (reference "C5") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -3792,13 +3792,13 @@
       (reference "D3") (unit 1) (value "1SMA4744A") (footprint "Diode_SMD:D_SMA")
     )
     (path "/850230a1-e985-4aec-bfc1-cca85f47f39d"
-      (reference "D4") (unit 1) (value "B5819W SL") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D4") (unit 1) (value "N.M.") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/51d4da84-adfb-4a06-a39b-d200bf6f99a7"
       (reference "D5") (unit 1) (value "B5819W SL") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/ff377cbc-6042-46e6-9644-84dbcdaf714a"
-      (reference "D6") (unit 1) (value "B5819W SL") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D6") (unit 1) (value "N.M.") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/e12d1fdc-79fc-4b5e-8e8e-02d21fa57709"
       (reference "FB1") (unit 1) (value "BLM18PG121SN1D") (footprint "Inductor_SMD:L_0603_1608Metric")
@@ -3825,7 +3825,7 @@
       (reference "J2") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "project:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal")
     )
     (path "/d99aad4d-8a7c-4eff-88b0-6cf9cb544a94"
-      (reference "L1") (unit 1) (value "MLF2012E100KTD25") (footprint "Inductor_SMD:L_0805_2012Metric")
+      (reference "L1") (unit 1) (value "0R") (footprint "Inductor_SMD:L_0805_2012Metric")
     )
     (path "/780daa5f-0411-4a9c-b0be-624b91dadf2d"
       (reference "L2") (unit 1) (value "FHW1812IF471KST") (footprint "Inductor_SMD:L_1812_4532Metric")
