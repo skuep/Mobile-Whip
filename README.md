@@ -14,7 +14,9 @@ This led to the following improvements:
 - Can be easily mounted on a HT (such as the UV-K5 with HF mod) or mobile scanner and is thus ideally suited for e.g. SHTF Emergency Operations
 - Very compact, only 200mm length
 - 3D-Printed Enclosure (TBD)
-  
+
+**Important**: This project is currently in it's first revision for preview purposes only. There may (and are) some issues with this design still that need to be addressed in the future.
+
 ![Mobile Whip on a UV-K5 with HF-mod](images/mobile-whip.jpg?raw=true "Mobile Whip on a UV-K5 with HF-mod")            |  ![Mobile Whip on a RTL-SDR with Bias-Tee](images/mobile-whip-rtlsdr.jpg?raw=true "Mobile Whip on a RTL-SDR with Bias-Tee")
 :-------------------------:|:-------------------------:
 Mobile Whip on a UV-K5 with HF-mod | Mobile Whip on a RTL-SDR with Bias-Tee
