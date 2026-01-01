@@ -17,6 +17,8 @@ This led to the following improvements:
 
 **Important**: This project is currently in it's first revision for preview purposes only. There may (and are) some issues with this design still that need to be addressed in the future.
 
+**Attention**: There is currently no reverse-TX protection, should you mount the Mobile-Whip on a mobile and press the PTT button. The Mobile-Whip might break.
+
 ![Mobile Whip on a UV-K5 with HF-mod](images/mobile-whip.jpg?raw=true "Mobile Whip on a UV-K5 with HF-mod")            |  ![Mobile Whip on a RTL-SDR with Bias-Tee](images/mobile-whip-rtlsdr.jpg?raw=true "Mobile Whip on a RTL-SDR with Bias-Tee")
 :-------------------------:|:-------------------------:
 Mobile Whip on a UV-K5 with HF-mod | Mobile Whip on a RTL-SDR with Bias-Tee
