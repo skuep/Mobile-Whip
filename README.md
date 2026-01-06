@@ -38,7 +38,7 @@ The PCB can be ordered fully-assembled (apart from SMA male connector and lithiu
   - PCBA Type "Economic"
   - Assembly Side "Top Side"
   - Tooling Holes "Added by Customer"
-  - Press Confirm
+  - Press Next
   - Click "Add BOM File" and upload ``BOM-mobile-whip.csv``
   - Click "Add CPL File" and upload ``CPL-mobile-whip.csv``
   - Press Next
