@@ -46,4 +46,10 @@ The PCB can be ordered fully-assembled (apart from SMA male connector and lithiu
   - **Make sure that all listed components are selected** and press Next 
   - Check everything looks roughly good (rotations are already baked-in and should be correct). Save to Cart
 
+**Note**:
+The following warning is okay and can be ignored:
+
+*The below parts won't be assembled due to missing data: 
+C3, D4, C4, D6, J1, H1, H2, BT1*
+
 This will give you 5 (or more) SMD assembled mobile-whip antennas for roughly 25€ per piece.
